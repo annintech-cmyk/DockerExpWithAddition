@@ -12,3 +12,4 @@ if __name__ == "__main__":
     result = addition(a, b)
     print("Calculating the sum of {} and {}...".format(a, b))
     print(result)
+    print("Done!")
